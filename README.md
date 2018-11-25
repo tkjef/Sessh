@@ -1,6 +1,6 @@
-# <img src="https://github.com/seeeye/sessh/blob/master/sessh_logo_white.jpg" height="100">
+# <img src="https://github.com/4-9s/sessh/blob/master/sessh_logo_white.jpg" height="100">
 
-<img src="https://github.com/seeeye/sessh/blob/master/img/sessh_screenshot.png" height="205">  
+<img src="https://github.com/4-9s/sessh/blob/master/img/sessh_screenshot.png" height="205">  
 
 Manage your ssh sessions with ease on Mac.  
 Retrieve and log into current AWS instances for troubleshooting and verifying setup.  
@@ -33,7 +33,7 @@ If you haven't already:
 2. Clone your forked repo
 
 Inside cloned repo directory run the below:
-1. `git remote add upstream https://github.com/seeeye/sessh.git`
+1. `git remote add upstream https://github.com/4-9s/sessh.git`
 2. `git fetch upstream`
 3. `git checkout master`
 4. `git rebase upstream/master`
@@ -58,12 +58,12 @@ MIT License, (see [LICENSE][license])
 MIT © [fitztrev][fitztrev]  
 portions MIT © [tkjef][tkjef]  
 
-[contributors]: https://github.com/seeeye/sessh/graphs/contributors
+[contributors]: https://github.com/4-9s/sessh/graphs/contributors
 [tkjef]: https://github.com/tkjef
 [fitztrev]: https://github.com/fitztrev
-[issues]: https://github.com/seeeye/sessh/issues
-[license]: https://github.com/seeeye/sessh/blob/master/LICENSE
-[twitter]: https://twitter.com/seeeye_io
+[issues]: https://github.com/4-9s/sessh/issues
+[license]: https://github.com/4-9s/sessh/blob/master/LICENSE
+[twitter]: https://twitter.com/4-9s_io
 [website]: http://www.sessh.io/
 
 ## Project Roadmap
