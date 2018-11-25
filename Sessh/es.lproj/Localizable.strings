@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Sessh
+  Translations done by Rebecca Dominguez
+*/
+
+"About " = "Acerca ";
+"Version: " = "Versión: ";
+" - ssh session manager for mac" = " - administrador de sesión ssh para mac";

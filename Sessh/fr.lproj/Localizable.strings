@@ -1,0 +1,10 @@
+/*
+ Localizable.strings
+ Sessh
+ Translations done by Alexis NIVON <anivon@alexisnivon.fr>
+*/
+
+"About " = "A propos de ";
+"Version: " = "Version: ";
+" - ssh session manager for mac" = " - Gestionnaire de session SSH pour Mac";
+"Error parsing config" = "Fichier de paramétrage invalide";
