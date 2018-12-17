@@ -5,11 +5,11 @@
 Manage your ssh sessions with ease on Mac.  
 Retrieve and log into current AWS instances for troubleshooting and verifying setup.  
 
-[http://www.sessh.io/](http://www.sessh.io/)
+[http://www.4-9s.com/sessh/](http://www.4-9s.com/sessh/)
 
 ## Installation
 
-1. Download [Sessh](http://www.sessh.io/release/Sessh_1.0.2.zip)
+1. Download [Sessh](http://www.4-9s.com/sessh/release/Sessh_1.0.2.zip)
 2. Copy to Applications
 
 ## Configuration
