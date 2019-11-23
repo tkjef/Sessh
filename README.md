@@ -5,12 +5,10 @@
 Manage your ssh sessions with ease on Mac.  
 Retrieve and log into current AWS instances for troubleshooting and verifying setup.  
 
-[http://www.tkjef.com/sessh/](http://www.tkjef.com/sessh/)
-
 ## Installation
 
-1. Download [Sessh](http://www.tkjef.com/sessh/release/Sessh_1.0.2.zip)
-2. Copy to Applications
+NO LONGER AVAILABLE.
+
 
 ## Configuration
 
